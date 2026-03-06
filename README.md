@@ -125,6 +125,14 @@ Los datos se almacenan en la base de datos MySQL.
 
 Se implementó un módulo simple de encuestas anónimas que permite visualizar encuestas registradas en la base de datos.
 
+El diagrama de base de datos se encuentra en:
+
+/database/diagrama_encuestas.png
+
+El script SQL de creación se encuentra en:
+
+/database/encuestas.sql
+
 Ruta de acceso:
 
 ```
